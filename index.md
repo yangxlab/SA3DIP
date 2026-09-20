@@ -1,3 +1,8 @@
+---
+title: Home
+---
+
+{% raw %}
 # SA3DIP: Segment Any 3D Instance with Potential 3D Priors
 
 Xi Yang<sup>1</sup>, Xu Gu<sup>1</sup>, Xingyilang Yin<sup>1*</sup>, Xinbo Gao<sup>2</sup>
@@ -232,3 +237,5 @@ We would like to thank the authors of <a href="https://github.com/yd-yin/SAI3D">
 ```
 
 
+
+{% endraw %}
